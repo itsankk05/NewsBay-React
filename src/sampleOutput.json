@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 29,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Pamela McClintock",
+      "title": "‘Indiana Jones and the Dial of Destiny’ Excavates $11.8M at Monday Box Office - Hollywood Reporter",
+      "description": "The final installment in the adventure-action series is easily dominating the July Fourth holiday, even after opening on the low end of expectations.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/indiana-jones-dial-of-destiny-box-office-monday-1235529122/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/12/PLT-118485_JO-H-2022.jpg?w=1024",
+      "publishedAt": "2023-07-04T16:00:16Z",
+      "content": "Indiana Jones and the Dial of Destiny earned $11.8 million at the Monday box office, on par with what Black Panther: Wakanda Forever and Thor: Love and Thunder earned on their first Mondays, respecti… [+1358 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cyclingnews.com" },
+      "author": "Alasdair Fotheringham",
+      "title": "Tour de France: Jasper Philipsen wins two in a row in crash-marred stage 4 - Cyclingnews",
+      "description": "Caleb Ewan second, Phil Bauhaus third in Nogaro",
+      "url": "https://www.cyclingnews.com/races/tour-de-france-2023/stage-4/results/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/G755JqusS6Adcrhx7FFuzP-1200-80.jpg",
+      "publishedAt": "2023-07-04T15:51:15Z",
+      "content": "Stage 4 of the 2023 Tour de France saw Belgian fastman Jasper Philipsen (Alpecin-Deceuninck) claim a second victory in two days in a crash-filled bunch sprint finale.\r\nCaleb Ewan (Lotto-Dstny) finish… [+4430 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Putin Blames West For \"Hostile\" Ukraine, Modi's Swipe At Pakistan, Xi Says China Will Oppose...| SCO - CRUX",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=f3KIb0k7XwI",
+      "urlToImage": null,
+      "publishedAt": "2023-07-04T15:30:09Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": { "id": null, "name": "WTOC" },
+      "author": null,
+      "title": "One dead after possible alligator attack on Hilton Head Island - WTOC",
+      "description": "One person is dead following a deadly “alligator incident” on Hilton Head Island on Tuesday.",
+      "url": "https://www.wtoc.com/2023/07/04/scdnr-responding-alligator-incident-hilton-head-island/",
+      "urlToImage": "https://gray-wtoc-prod.cdn.arcpublishing.com/resizer/rbPvlLMLsQRHK1MSmwUNyqsw3OA=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/XMKZ4QWL7RHDXJQOG72DIZMUI4.jpg",
+      "publishedAt": "2023-07-04T15:14:00Z",
+      "content": "HILTON HEAD ISLAND, S.C. (WTOC) - One person is dead following a deadly alligator incident on Hilton Head Island on Tuesday.\r\nBeaufort County Sheriffs Office deputies, Hilton Head Island Fire Rescue,… [+1094 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Tel Aviv: Seven injured in Palestinian car-ramming and stabbing attack - BBC",
+      "description": "A Palestinian drove into and stabbed people in the Israeli city before being shot dead, police say.",
+      "url": "https://www.bbc.com/news/world-middle-east-66095623",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/648A/production/_130283752_mediaitem130283308.jpg",
+      "publishedAt": "2023-07-04T14:47:54Z",
+      "content": "Media caption, A spokesperson for Israel's police says a civilian 'neutralised the terrorist'\r\nA Palestinian man has injured at least seven people in a car-ramming and stabbing attack in the Israeli … [+2867 chars]"
+    }
+  ]
+}
